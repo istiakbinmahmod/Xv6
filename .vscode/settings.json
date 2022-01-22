@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "x86.h": "c",
+        "random_generator.h": "c"
+    }
+}
